@@ -5,3 +5,5 @@ sqlparse==0.4.3
 tzdata==2022.7
 whitenoise==6.2.0
 dj-database-url==2.1.0
+# gunicorn==21.2.0 
+waitress==3.0.0
