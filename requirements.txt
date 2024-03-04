@@ -7,3 +7,4 @@ whitenoise==6.2.0
 dj-database-url==2.1.0
 # gunicorn==21.2.0 
 waitress==3.0.0
+# beautifulsoup4-4.12.3 django-4.2.10 django-bootstrap-v5-1.0.11
